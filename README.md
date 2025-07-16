@@ -1,5 +1,10 @@
 # 🕵️‍♂️ Remote Watcher
 
+> ⚠️ **Update Notice**  
+> 🟨 Fixed a bug on **July 16, 2025**._  
+> Please update your browser watcher ASAP. The remote add-on is OK.
+
+
 **Remote Watcher** is a powerful utility that lets you **view and interact with remote browser tabs** as if they were in your own browser. Designed for support professionals, developers, and privacy-conscious users, it enables real-time tab mirroring and interaction using two lightweight browser add-ons.
 
 🔗 **Access the project:** [remotewatcher.onion](http://remotewatcher.onion) (find me in TOR
