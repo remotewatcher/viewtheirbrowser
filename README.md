@@ -2,7 +2,18 @@
 
 **Remote Watcher** is a powerful utility that lets you **view and interact with remote browser tabs** as if they were in your own browser. Designed for support professionals, developers, and privacy-conscious users, it enables real-time tab mirroring and interaction using two lightweight browser add-ons.
 
-🔗 **Access the project:** [remotewatcher.onion](http://remotewatcher.onion)
+🔗 **Access the project:** [remotewatcher.onion](http://remotewatcher.onion) (find me in TOR
+
+---
+
+### 🌐 How to Access the Site (Tor Network)
+
+To access the **Remote Watcher** site, you'll need to use the [Tor Browser](https://www.torproject.org/). Once installed, search dark web directories or forums for keywords like:
+
+- `"Remote Watcher"`
+- `"browser tab sharing tool (onion)"`
+
+The project is hosted as a Tor hidden service for privacy and anonymity. **The full `.onion` address is not published openly** — this is intentional, to protect both users and the project itself. Be sure to use trusted sources and always verify links before visiting.
 
 ---
 
